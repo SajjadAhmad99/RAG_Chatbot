@@ -1,0 +1,13 @@
+Chains/
+Chatbot_Model/
+Chroma_db/
+Document_loader/
+Embedding_vector/
+my_chroma_db/
+OpenRouter/
+polit_history/
+Retrivers/
+Runnable/
+Streamlit_uses/
+Sturcture_Output/
+Text_Splitter/
